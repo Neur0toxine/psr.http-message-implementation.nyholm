@@ -1,0 +1,16 @@
+{
+    "name": "neur0toxine/psr.http-message-implementation.nyholm",
+    "description": "Satisfy \"psr/http-message-implementation\" with packages provided by user, or fallback to \"nyholm\".",
+    "type": "metapackage",
+    "license": "MIT",
+    "keywords": [
+        "composer",
+        "fallback",
+        "default",
+        "psr",
+        "http-message-implementation"
+    ],
+    "require": {
+        "nyholm/psr7": "*"
+    }
+}
