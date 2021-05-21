@@ -10,7 +10,5 @@
         "psr",
         "http-message-implementation"
     ],
-    "require": {
-        "nyholm/psr7": "*"
-    }
+    "require": []
 }
